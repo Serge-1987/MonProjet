@@ -1,2 +1,3 @@
 # MonProjet
-Assurance qualité
+Assurance qualité.
+
